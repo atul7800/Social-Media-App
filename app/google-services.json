@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763289690642",
+    "firebase_url": "https://connect-d48a6.firebaseio.com",
+    "project_id": "connect-d48a6",
+    "storage_bucket": "connect-d48a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763289690642:android:cf6d2f69f8a9bd3b136ecb",
+        "android_client_info": {
+          "package_name": "com.atulgupta.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763289690642-5psls70qjj9c93tqm6a58gaf90cm84tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0BLFenRdwAOer6bijBMY8Z68_Dr-ShQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763289690642-5psls70qjj9c93tqm6a58gaf90cm84tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
